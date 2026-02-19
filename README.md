@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Me chamo Vinícius Simões, sou estudante da PUC Minas cursando Ciências da Computação. Estou no 5° Período.<br><br>Estou atualmente estagiando no setor HUB de Inovações PROEX. Aqui colaboro com criações de planilhas Excel e também na criação de site usando HTML, CSS e JS.</p>
+<p align="left">Sou Vinícius Simões, estudante da PUC Minas cursando Engenharia de Software, 4° Período.</p>
 
 ###
 
