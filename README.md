@@ -81,8 +81,6 @@
 </tr> 
 <tr>
 <td>
-<!-- <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=V&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-<img src="https://helio-github-stats.vercel.app/api?username=ViniSimoesV&custom_title=GitHub+Stats&theme=dark&title_color=4c71f2&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=false&locale=pt-br&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" loading="lazy" /> -->
 <img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniSimoesV&theme=github_dark"/>
 </td>
 <td>
@@ -126,15 +124,47 @@
 </div>
 </div>
 
-<br />
+<br/>
 
 ###
 
 <div>
-<details>
-<summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Vini's Spotify Data</summary>
-<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=vcraft1010" alt="Data Card for Spotify"/>
-</details>
+  <img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/soulgem.svg?raw=true"/>Meus interesses pessoais:
+<table>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td width="500px" >
+<div align="justify">
+<p> 
+- :student: Na <a href="https://www.pucminas.br/" target="_blank">PUC Minas</a>, sou <code>aluno</code> no curso de Engenharia de Software. <br />
+- :briefcase: Na <a>Agência Experimental de Software</a>, atuei como <code>front end</code>. Também <br />
+- :atom: Sou entusiasta de Front End, veja um projeto que fiz <a href="https://github.com/Portifolio-Web" target="_blank">aqui</a>.
+- :books: Meus hobbies são <a href="https://rickriordan.com/series/percy-jackson-and-the-olympians/" target="_blank">ler saga de Percy Jackson</a>, <a href="https://deadbydaylight.com/pt-br/" target="_blank">Dead by Daylight</a>, e <a href="https://store.steampowered.com/agecheck/app/532210/" target="_blank"> Life is Strange 2</a>.<br />
+- :tv: Minha série preferida chama-se <a href="https://www.imdb.com/pt/title/tt0417299/" target="_blank">Avatar: A Lenda de Aang</a>. 
+  <!--Atualmente estou assistindo <a href="https://www.imdb.com/pt/title/tt0804484/" target="_blank">Foundation</a>, <a href="https://www.imdb.com/pt/title/tt10466872/" target="_blank">Dune: Prophecy</a>, <a href="https://www.imdb.com/title/tt14688458/" target="_blank">Silo</a>, <a href="https://www.imdb.com/title/tt9813792/" target="_blank">From</a> e <a href="https://www.imdb.com/title/tt15435876/" target="_blank">The Penguin</a>.<br /> -->
+- :mailbox: Para me encontrar, este é meu <a href="mailto:vinisv2004@gmail.com" target="_blank">e-mail</a> pessoal e este é meu <a href="mailto:1387659@pucminas.br" target="_blank">e-email</a> corporativo da PUC Minas.<br />
+</p>
+</div>
+</td>
+<td>
+<div>
+<img alt="SVG" src="https://joaopauloaramuni.github.io/image/dev1b.svg?raw=true" width="500px" height="400px" />
+</div>
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+
+</div>
+
+###
+
+<div>
+  <summary><img height="20" alt="SVG" src="https://joaopauloaramuni.github.io/image/spotify.svg?raw=true"/> Vini's Spotify Data</summary>
 </div>
 
 <div align="center">
@@ -147,7 +177,7 @@
 <img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=vcraft1010&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
 </td>
 <td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=vcraft1010&count=10"/>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=vcraft1010"/>
 </td>
 </tr>
 <tr>
