@@ -1,3 +1,8 @@
+<div>
+  <img align="center" alt="Header" src="https://github.com/ViniSimoesV/ViniSimoesV/blob/main/img/github-header-banner.png"/>
+</div>
+
+
 <h2 align="left">Sobre Mim</h2>
 
 ###
