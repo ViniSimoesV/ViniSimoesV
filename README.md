@@ -185,3 +185,5 @@
 </tr> 
 </table>
 </div>
+
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=ViniSimoesV&style=for-the-badge"/>
