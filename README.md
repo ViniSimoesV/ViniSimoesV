@@ -173,15 +173,13 @@
  <td align="center" colspan="3"></td>
 </tr> 
 <tr>
+
 <td>
-<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=vcraft1010&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
-</td>
-<td>
-<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=vcraft1010"/>
+<img alt="Spotify list" width="610px" height="270px" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=vcraft1010&theme=transparent&width=610&duration=1&explicit=0&album=1&footer=wave"/>
 </td>
 </tr>
 <tr>
- <td align="center" colspan="3"></td>
+ <td align="center" colspan="3"></td> 
 </tr> 
 </table>
 </div>
